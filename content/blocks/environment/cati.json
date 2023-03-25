@@ -1,7 +1,7 @@
 {
 "type": "OreBlock",
 "oreDefault": true,	
-"oreScale": 22.45,
-"oreThreshold": 2.0,
+"oreScale": 1.0,
+"oreThreshold": 0.2,
 "itemDrop": "cati"
 }
