@@ -13,10 +13,21 @@ type: "ConsumeGenerator"
    items: { 
      item:  cati
    amount: 2
+   } 
+ } 
  requirements:  [ 
-     ltem:  cobalt, 
-     amount: 35 
-     item:  cati, 
+     { 
+     ltem:  copper 
+     amount: 35 
+         }, 
+         { 
+     item:  lead, 
      amount: 20 
+     }, 
+         { 
+     item:  graphite, 
+     amount:  15 
+     }, 
+ ] 
  category:  "power"  
  research:  steam-generator
