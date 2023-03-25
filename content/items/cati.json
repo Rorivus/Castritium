@@ -5,9 +5,9 @@
     "charge": 4,
     "color": "5DCBF3FF",
     "research": {
-    "parent": "omega-blue",
+    "parent": "cati",
     "requirements": [
-    "omega-blue/1000"
+    "cati/1000"
   ]
   }
 }
