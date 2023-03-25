@@ -1,6 +1,6 @@
 type: "ConsumeGenerator" 
  name: "Cati generator" 
- health:  *250*250
+ health:  (250)
  size:  2 
  hasItems: true
  placeableLiquid: false 
