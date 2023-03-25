@@ -1,8 +1,8 @@
 {
     "cost": 1,
-    "hardness": 2,
-    "explosiveness": 3,
-    "charge": 4,
+    "hardness": 1,
+    "explosiveness": 0,
+    "charge": 1,
     "color": "5DCBF3FF",
     "research": {
     "parent": "cati",
