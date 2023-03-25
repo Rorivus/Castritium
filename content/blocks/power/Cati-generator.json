@@ -4,9 +4,9 @@
 "localizedName": "Cati-generator",
 	 "researchCostMultiplier": 0.15,
 "description": "Uses cati to produce energy",
-"displayEfficiency": false,
+"displayEfficiency": true,
 "minEfficiency": 1,
-"health": 500,
+"health": 250,
 "size": 1,
 "powerProduction": 0.5,
 "itemCapacity": 10,
@@ -31,7 +31,7 @@
         "cati/35"
 ],
 "category": "power",
-"research": "",
+"research": "steam-generator",
 "ambientSound": "",
 "ambientSoundVolume": 
 }
