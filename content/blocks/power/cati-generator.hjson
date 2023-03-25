@@ -14,14 +14,10 @@ type: "ConsumeGenerator"
      item:  cati
    amount: 2
  requirements:  [ 
-     { 
      ltem:  cobalt, 
-     amount: 35
-         }, 
-         { 
+     amount: 35 
      item:  cati, 
      amount: 20 
-     }, 
  ] 
  category:  "power"  
  research:  steam-generator
