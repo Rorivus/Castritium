@@ -1,0 +1,29 @@
+type: "ConsumeGenerator"
+name: "Benzine generator"
+health: 55
+size: 1
+hasLiuid: true
+placeableLiquid: false
+outputsPower: true
+breakable: true
+buildCostMultiplier: 0.4
+liquidCapacity: 20
+powerProduction: 1.1
+consumes: {
+  item: {
+    item: cati
+    amount: 1
+  }
+}
+requirements: [
+    {
+    ltem: cobalt
+    amount: 35
+	},
+	{
+    item: cati,
+    amount: 35
+    },
+]
+category: "power" 
+research: steam-generator
