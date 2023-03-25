@@ -8,22 +8,18 @@ type:  "ConsumeGenerator"
  breakable: true 
  buildCostMultiplier:  0.4 
  itemCapacity: 10
- powerProduction:  0.5
+ powerProduction:  3
  consumes: [
    items: cati/2
 ]
  requirements:  [ 
      { 
-     ltem:  copper 
+     ltem:  cati 
      amount: 35 
          }, 
          { 
-     item:  lead, 
-     amount: 20 
-     }, 
-         { 
-     item:  graphite, 
-     amount:  15 
+     item:  cobalt, 
+     amount: 35 
      }, 
  ] 
  category:  "power"  
