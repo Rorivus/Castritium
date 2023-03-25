@@ -6,9 +6,9 @@ type: "ConsumeGenerator"
  placeableLiquid: false 
  outputsPower: true 
  breakable: true 
- buildCostMultiplier: 0.4 
- itemCapacity: 10
- powerProduction:  0.5
+ buildCostMultiplier:0.4 
+ itemCapacity:10
+ powerProduction:0.5
  consumes: { 
    items: { 
      item:  cati
