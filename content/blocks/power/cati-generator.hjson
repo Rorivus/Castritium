@@ -1,0 +1,29 @@
+type: "ConsumeGenerator" 
+ name: "Cati generator" 
+ health:  *250*
+ size:  1 
+ hasItems: true
+ placeableLiquid: false 
+ outputsPower: true 
+ breakable: true 
+ buildCostMultiplier: 0.4 
+ itemCapacity: 10
+ powerProduction:  0.5
+ consumes: { 
+   items: { 
+     item:  cati
+   amount: 2
+   } 
+ } 
+ requirements:  [ 
+     { 
+     ltem:  cobalt, 
+     amount: 35
+         }, 
+         { 
+     item:  cati, 
+     amount: 20 
+     }, 
+ ] 
+ category:  "power"  
+ research:  steam-generator
