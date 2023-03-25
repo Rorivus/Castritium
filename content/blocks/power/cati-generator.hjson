@@ -10,11 +10,11 @@ type:  "ConsumeGenerator"
  itemCapacity: 10
  powerProduction:  3
  consumes: [
-   items: cati/2
+   items: copper/2
 ]
  requirements:  [ 
      { 
-     ltem:  cati 
+     ltem:  copper 
      amount: 35 
          }, 
          { 
