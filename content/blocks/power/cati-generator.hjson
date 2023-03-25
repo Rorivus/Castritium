@@ -2,9 +2,9 @@ type:  "ConsumeGenerator"
  name:  "Cati-generator" 
  health:  250
  size:  2 
- hasItems: false
+ hasItems: true
  placeableLiquid:  false 
- outputsPower:  true 
+ outputsPower:  false 
  breakable: true 
  buildCostMultiplier:  0.4 
  itemCapacity: 10
