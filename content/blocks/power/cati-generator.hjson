@@ -18,6 +18,5 @@ type: "ConsumeGenerator"
      amount: 35 
      item:  cati, 
      amount: 20 
- ] 
  category:  "power"  
  research:  steam-generator
