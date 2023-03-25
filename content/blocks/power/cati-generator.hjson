@@ -1,7 +1,7 @@
 type:  "ConsumeGenerator" 
  name:  "Cati generator" 
  health:  *250*
- size:  2 
+ size:  1 
  hasItems: true
  placeableLiquid:  false 
  outputsPower:  true 
@@ -10,10 +10,7 @@ type:  "ConsumeGenerator"
  itemCapacity: 10
  powerProduction:  0.5
  consumes: [
-   items: { 
-     item:  cati
-   amount: 2
-   } 
+   items: cati/2
 ]
  requirements:  [ 
      { 
@@ -31,4 +28,3 @@ type:  "ConsumeGenerator"
  ] 
  category:  "power"  
  research:  steam-generator 
-
