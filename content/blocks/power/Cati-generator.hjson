@@ -1,5 +1,5 @@
 type: "ConsumeGenerator"
-name: "Benzine generator"
+name: "Cati-generator"
 health: 55
 size: 1
 hasLiuid: true
@@ -12,7 +12,7 @@ powerProduction: 1.1
 consumes: {
   item: {
     item: cati
-    amount: 1
+    amount: 35
   }
 }
 requirements: [
@@ -20,10 +20,6 @@ requirements: [
     ltem: cobalt
     amount: 35
 	},
-	{
-    item: cati,
-    amount: 35
-    },
 ]
 category: "power" 
-research: steam-generator
+research: 
