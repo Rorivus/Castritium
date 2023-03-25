@@ -13,7 +13,6 @@ type: "ConsumeGenerator"
    items: { 
      item:  cati
    amount: 2
-}
  requirements:  [ 
      { 
      ltem:  cobalt, 
