@@ -3,7 +3,7 @@
 "loadEffect": {
 "type": "ParticleEffect",
 "line": true,
-"particles": 7,
+"particles": 0,
 "lifetime": 15,
 "length": 25,
 "cone": -360,
@@ -13,7 +13,7 @@
 "unloadEffect": {
 "type": "ParticleEffect",
 "line": true,
-"particles": 7,
+"particles": 0,
 "lifetime": 15,
 "length": 25,
 "cone": -360,
@@ -22,7 +22,7 @@
 },
 "health": 300,
 "speed": 0.20,
-"itemCapacity": 1,
+"itemCapacity": 3,
     "requirements": [
         "cobalt/3",
     ],
