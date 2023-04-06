@@ -21,7 +21,7 @@
 "lenTo": 0,
 },
 "health": 300,
-"speed": 0.30,
+"speed": 0.20,
 "itemCapacity": 1,
     "requirements": [
         "cobalt/3",
