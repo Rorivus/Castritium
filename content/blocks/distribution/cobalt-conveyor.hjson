@@ -25,8 +25,8 @@
 "colorTo": "808080FF"
 },
 "health": 300,
-"speed": 0.10,
-"itemCapacity": 100,
+"speed": 6,
+"itemCapacity": 1,
     "requirements": [
         "cobalt/3",
     ],
