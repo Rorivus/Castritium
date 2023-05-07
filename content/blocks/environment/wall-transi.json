@@ -1,0 +1,6 @@
+{
+"type": "StaticWall",
+"emitLight": false,
+"lightRadius": 0,
+"lightColor": "0000000"
+}
