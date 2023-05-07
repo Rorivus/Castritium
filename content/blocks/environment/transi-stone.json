@@ -1,0 +1,11 @@
+{
+"type": "Floor",
+"emitLight": false,
+"lightRadius": 0,
+"lightColor": "000000",
+"attributes": {
+  "heat": 0
+},
+"variants": 4,
+"wall": "wall-transi"
+}
