@@ -1,0 +1,42 @@
+{
+    "type": "ItemTurret",
+    "health": 450,
+    "size": 2,
+    "reload": 10,
+    "range": 15,
+    "recoil": 1,
+    "shake": 0.5,
+    "ammoUseEffect": "casing3",
+    "rotateSpeed": 5,
+    "shootSound": "bang",
+        "drawer": {
+    "type": "drawTurret",
+    "basePrefix": "epsilon"
+    },
+	"ammoTypes": {
+          "cati": {
+            "status": "blasted",
+	        "statusDuration": "10",
+            "reflectable": false,
+            "speed": 10,
+            "width": 2,
+            "height": 3,
+            "lifetime": 20,
+            "damage": 30,
+            "splashDamage": 15,
+            "splashDamageRadius": 3,
+            "knockback": 0.5,
+            "hitSize": 4,
+            "frontColor": "E66F57FF",
+            "backColor": "C85C51FF",
+            "shootEffect": "shootPyraFlame",
+            "hitEffect": "blastExplosion"
+    },
+    "requirements": [
+        "cobalt/35",
+        "cati/15",
+    ],
+    "category": "turret",
+    "research": "ripple"
+
+}
