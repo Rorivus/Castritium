@@ -31,7 +31,7 @@
             "backColor": "C85C51FF",
             "shootEffect": "shootPyraFlame",
             "hitEffect": "blastExplosion"
-    },
+    }
     "requirements": [
         "cobalt/35",
         "cati/15",
