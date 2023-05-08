@@ -10,9 +10,9 @@
     "rotateSpeed": 5,
     "shootSound": "bang",
         "drawer": {
-    "type": "drawTurret",
+    "type": "block-",
     "basePrefix": "block-"
-    "drawturret": "block-2"
+    "drawturret": "block-"
     },
 	"ammoTypes": {
           "cati": {
