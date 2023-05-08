@@ -3,7 +3,7 @@
     "health": 450,
     "size": 2,
     "reload": 10,
-    "range": 15,
+    "range": 24,
     "recoil": 1,
     "shake": 0.5,
     "ammoUseEffect": "casing3",
@@ -11,7 +11,7 @@
     "shootSound": "bang",
         "drawer": {
     "type": "drawTurret",
-    "basePrefix": "epsilon"
+    "basePrefix": "block-2"
     },
 	"ammoTypes": {
           "cati": {
