@@ -11,8 +11,7 @@
     "shootSound": "bang",
         "drawer": {
     "type": "drawTurret",
-    "basePrefix": "block-2"
-    "base": "block-2"
+    "basePrefix": "b-2"
     },
 	"ammoTypes": {
           "cati": {
