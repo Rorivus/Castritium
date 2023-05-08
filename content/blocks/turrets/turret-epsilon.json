@@ -3,7 +3,7 @@
     "health": 450,
     "size": 2,
     "reload": 10,
-    "range": 240,
+    "range": 245,
     "recoil": 1,
     "shake": 0.5,
     "ammoUseEffect": "casing3",
