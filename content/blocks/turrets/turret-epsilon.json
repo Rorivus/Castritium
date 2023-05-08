@@ -12,6 +12,7 @@
         "drawer": {
     "type": "drawTurret",
     "basePrefix": "block-"
+    "drawturret": "block-"
     },
 	"ammoTypes": {
           "cati": {
